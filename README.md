@@ -119,6 +119,3 @@ Discounted Total: R16842.45
 
 ---
 
-## 📄 License
-
-Built for academic and portfolio purposes by Botho Kakula — IIE Emeris Waterfall (Varsity College), 2026.
